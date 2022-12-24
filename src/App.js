@@ -14,7 +14,7 @@ function App(){
 
     return (
         <FeedbackProvider>
-        <Header text='Hello world'/>
+        <Header text='Hello Begench!'/>
         <div className="container">
             <FeedbackForm />
             <FeedbackStats />
